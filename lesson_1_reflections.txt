@@ -1,0 +1,7 @@
+1) i saved time by only looking at text that has changed
+2) when you realise that you have proceeded down a wrong path you can restore back to the place where you diverged
+3) saving manually allows you to ensures that the saved result actually works whereas autosaving will often be saving while you are still making changes. Additionally adding a description of what you did between commits helps to see what you did in that commit. This will allow you to later look back at what you did or find out the best point to restore when things go wrong.
+3) super useful to save all the files in one commit as you can roll back changes easily. it would also make identifying which file hold the bug when debugging
+4) version control frees me up to experment and make errors because i can always go back to previous versions.
+5) i want to use git to complete the machine learning quiz from udacity
+
